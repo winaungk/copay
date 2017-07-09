@@ -1,0 +1,2 @@
+# copay
+Bitcoin free wallet
